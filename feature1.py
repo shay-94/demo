@@ -1,1 +1,1 @@
-# This will create a merge conflict in feature2
+# This will create a merge conflict in main
